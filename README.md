@@ -1,4 +1,4 @@
-Welcome to my Github
+# Welcome to my Github
 
 I am busy learnign to code after working financial services for the last 30 years.
 
